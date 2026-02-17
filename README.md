@@ -6,7 +6,8 @@
 ## 🚀 About Me
 - 🎓 6th Semester Engineering Student
 - 💻 Passionate about Web Development & Data Science
--📚 Currently Learning
+  
+--📚 Currently Learning
 - 📊 Statistics (Probability, Distribution, Hypothesis Testing)
 - 🐍 Python (Core + OOP)
 - 🌐 Django (Backend Development)
