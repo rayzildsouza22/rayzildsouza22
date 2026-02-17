@@ -1,19 +1,24 @@
-<h1 align="center">Hi 👋, I'm Rayzil</h1>
-<h3 align="center">Data Science Enthusiast | Web Developer | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Rayzil Vionna Dsouza</h1>
+<h3 align="center">AI/ML Enthusiast | Web Developer</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 4th Semester Student
+- 🎓 6th Semester Engineering Student
 - 💻 Passionate about Web Development & Data Science
-- 🌱 Currently learning Advanced Python & Algorithms
+-📚 Currently Learning
+- 📊 Statistics (Probability, Distribution, Hypothesis Testing)
+- 🐍 Python (Core + OOP)
+- 🌐 Django (Backend Development)
+- 📈 Pandas (Data Manipulation)
+- 🔢 NumPy (Numerical Computing)
 - 🔥 Love building creative tech projects
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+<a href="www.linkedin.com/in/rayzil-vionna-dsouza" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://instagram.com/YOUR-LINK" target="blank">
@@ -53,7 +58,6 @@
 ---
 
 ✨ Thanks for visiting my profile!
-## Hi there 👋
 
 <!--
 **rayzildsouza22/rayzildsouza22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
