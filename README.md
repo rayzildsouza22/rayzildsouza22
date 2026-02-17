@@ -47,14 +47,14 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=rayzildsouza22&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayzildsouza22&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Contribution Graph
-![Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=rayzildsouza22&theme=radical)
 
 ---
 
