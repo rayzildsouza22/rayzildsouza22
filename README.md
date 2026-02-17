@@ -1,3 +1,58 @@
+<h1 align="center">Hi 👋, I'm Rayzil</h1>
+<h3 align="center">Data Science Enthusiast | Web Developer | Problem Solver</h3>
+
+---
+
+## 🚀 About Me
+- 🎓 4th Semester Student
+- 💻 Passionate about Web Development & Data Science
+- 🌱 Currently learning Advanced Python & Algorithms
+- 🔥 Love building creative tech projects
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://instagram.com/YOUR-LINK" target="blank">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🔥 Contribution Graph
+![Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=radical)
+
+---
+
+✨ Thanks for visiting my profile!
 ## Hi there 👋
 
 <!--
