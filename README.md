@@ -1,6 +1,5 @@
 <!-- Banner -->
 <p align="center">
-  <img src="<p align="center">
   <img src="banner.gif" alt="Rayzil Vionna Dsouza Banner" width="100%" />
 </p>
 
