@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.gif" alt="Rayzil Vionna Dsouza Banner" width="100%" />
+  <img src="banner.gif" alt="Rayzil Vionna Dsouza Banner" style="width:100%; max-height:350px; object-fit:cover;" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Rayzil Vionna Dsouza</h1>
 <h3 align="center">AI/ML Enthusiast • Web Developer</h3>
