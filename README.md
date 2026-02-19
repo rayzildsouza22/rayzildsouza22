@@ -28,9 +28,27 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rayzil-vionna-dsouza" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rayzil-vionna-dsouza" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:rayzilledsouza@gmail.com">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"
+       width="55" />
+  </a>
+
+
+  <!--Leetcode-->
+  <a href="https://leetcode.com/rayzildsouza04/" target="_blank">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
+       width="55" />
 </a>
+
+
 </p>
 
 ---
