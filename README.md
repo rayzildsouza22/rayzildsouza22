@@ -8,6 +8,9 @@
 <h1 align="center">Hi 👋, I'm Rayzil Vionna Dsouza</h1>
 <h3 align="center">AI/ML Enthusiast • Web Developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rayzildsouza22&label=Profile Views&color=0e75b6&style=for-the-badge" />
+</p>
 ---
 
 <h2> 🚀 About Me</h2>
