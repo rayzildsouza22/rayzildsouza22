@@ -1,25 +1,24 @@
 <!-- Banner -->
-  <p align="center">
-  <img src="banner.gif" alt="Rayzil Vionna Dsouza Banner" height="350" />
+<p align="center">
+  <img src="banner.gif" alt="Rayzil Vionna Dsouza Banner" height="320" />
 </p>
-
-
 
 <h1 align="center">Hi 👋, I'm Rayzil Vionna Dsouza</h1>
 <h3 align="center">AI/ML Enthusiast • Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rayzildsouza22&label=Profile Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=rayzildsouza22&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
 ---
 
-<h2> 🚀 About Me</h2>
+<h2>🚀 About Me</h2>
 
 - 🎓 6th Semester Engineering Student  
 - 💻 Interested in Web Development & Data Science  
 - 🔥 I enjoy building structured, logic-driven projects  
 
-<h2> 📚 Currently Learning</h2>
+<h2>📚 Currently Learning</h2>
 
 - 📊 Statistics (Probability, Distributions, Hypothesis Testing)  
 - 🐍 Python (Core + OOP)  
@@ -28,30 +27,23 @@
 - 🔢 NumPy (Numerical Computing)  
 
 ---
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rayzil-vionna-dsouza" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <!-- Gmail -->
   <a href="mailto:rayzilledsouza@gmail.com">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"
-       width="55" />
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="55" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 
-
-  <!--Leetcode-->
   <a href="https://leetcode.com/rayzildsouza04/" target="_blank">
-  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"
-       width="55" />
-</a>
-
-
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="55" />
+  </a>
 </p>
 
 ---
@@ -84,7 +76,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="80" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" />
-
 </p>
 
 <h3 align="center">🗄 Database</h3>
@@ -98,18 +89,14 @@
 <h3 align="center">🛠 Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="90" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="75" />
 </p>
-
 
 ---
 
-<p align="center">
-  <h2>📊 GitHub Stats</h2>
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rayzildsouza22&show_icons=true&theme=radical&hide_border=true" />
@@ -119,14 +106,15 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rayzildsouza22&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+---
 
-<p align="center">
-  <h2>🔥 Contribution Streak</h2>
-</p>
+<h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rayzildsouza22&theme=radical&hide_border=true" />
 </p>
+
+---
 
 <h2 align="center">📈 Contribution Graph</h2>
 
@@ -134,7 +122,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayzildsouza22&theme=react-dark&hide_border=true" />
 </p>
 
-
+---
 
 <p align="center">
   <i>Building consistency. Strengthening fundamentals.</i>
