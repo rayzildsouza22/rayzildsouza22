@@ -39,7 +39,7 @@
   <a href="mailto:rayzilledsouza@gmail.com">
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="55" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp; 
 
   <a href="https://leetcode.com/rayzildsouza04/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="55" />
