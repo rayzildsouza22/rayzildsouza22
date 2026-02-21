@@ -107,11 +107,10 @@
 </p>
 
 ---
-
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rayzildsouza22&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=rayzildsouza22&theme=radical&hide_border=true&date=20260221" />
 </p>
 
 ---
