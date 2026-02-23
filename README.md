@@ -39,7 +39,7 @@
   <a href="mailto:rayzilledsouza@gmail.com">
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="55" />
   </a>
-  &nbsp;&nbsp;&nbsp; 
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/rayzildsouza04/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="55" />
@@ -107,10 +107,11 @@
 </p>
 
 ---
+
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rayzildsouza22&theme=radical&hide_border=true&date=20260221" />
+  <img src="https://streak-stats.demolab.com/?user=rayzildsouza22&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -121,6 +122,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayzildsouza22&theme=react-dark&hide_border=true" />
 </p>
 
+---
+
+<h2 align="center">🌊 Flow of Consistency</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00c6ff,100:0072ff&section=footer"/>
+</p>
 ---
 
 <p align="center">
