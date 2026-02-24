@@ -107,21 +107,11 @@
 </p>
 
 ---
-
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rayzildsouza22&theme=radical&hide_border=true" />
 </p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayzildsouza22&theme=react-dark&hide_border=true" />
-</p>
-
 ---
 
 <h2 align="center">🌊 Flow of Consistency</h2>
