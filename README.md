@@ -117,6 +117,7 @@
 <h2 align="center">🌊 Flow of Consistency</h2>
 <br>
 <br>
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00c6ff,100:0072ff&section=footer"/>
