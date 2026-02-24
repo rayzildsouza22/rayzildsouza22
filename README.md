@@ -112,14 +112,16 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rayzildsouza22&theme=radical&hide_border=true&cache_seconds=3600" />
 </p>
----
+
 
 <h2 align="center">🌊 Flow of Consistency</h2>
+<br>
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00c6ff,100:0072ff&section=footer"/>
 </p>
----
+
 
 <p align="center">
   <i>Building consistency. Strengthening fundamentals.</i>
