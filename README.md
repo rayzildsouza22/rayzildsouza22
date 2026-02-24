@@ -120,7 +120,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00c6ff,100:0072ff&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff4ecd,100:7b2ff7&section=footer"/>
 </p>
 
 
