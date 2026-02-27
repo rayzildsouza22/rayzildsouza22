@@ -131,5 +131,5 @@
 
 
 <p align="center">
-  <i>Building consistency. Strengthening fundamentals.</i>
+  <i>Building Consistency. Strengthening Fundamentals.</i>
 </p>
