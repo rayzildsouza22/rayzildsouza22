@@ -110,15 +110,16 @@
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=rayzildsouza22&theme=radical&hide_border=true&v=2" />
+  <img src="https://streak-stats.demolab.com?user=rayzildsouza22&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
+
+---
 
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayzildsouza22&theme=react-dark&bg_color=0d1117&color=ff0080&line=7928ca&point=ff0080&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayzildsouza22&bg_color=0d1117&color=ff0080&line=7928ca&point=ff0080&area=true&hide_border=true&custom_title=Rayzil's%20Contribution%20Activity" />
 </p>
-
 
 <h2 align="center">🌊 Flow of Consistency</h2>
 <br>
