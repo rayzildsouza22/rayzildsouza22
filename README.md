@@ -114,13 +114,11 @@
 </p>
 
 ---
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayzildsouza22&bg_color=0d1117&color=ff0080&line=7928ca&point=ff0080&area=true&hide_border=true&custom_title=Rayzil Vionna Dsouza's%20Contribution%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayzildsouza22&theme=react-dark&bg_color=0d1117&color=ff0080&line=7928ca&point=ff0080&area=true&hide_border=true" />
 </p>
-
 <h2 align="center">🌊 Flow of Consistency</h2>
 <br>
 <br>
