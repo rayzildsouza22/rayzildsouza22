@@ -14,8 +14,8 @@
 
 <h2>🚀 About Me</h2>
 
-- 🎓 6th Semester Engineering Student  
-- 💻 Interested in Web Development & Data Science  
+- 🎓 7th Semester Engineering Student  
+- 💻 Interested in Full Stack Development & Data Science  
 - 🔥 I enjoy building structured, logic-driven projects  
 
 <h2>📚 Currently Learning</h2>
