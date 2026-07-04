@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rayzil Vionna Dsouza</h1>
-<h3 align="center">AI/ML Enthusiast • Web Developer</h3>
+<h3 align="center">AI/ML Enthusiast • Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rayzildsouza22&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
